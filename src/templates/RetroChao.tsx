@@ -161,11 +161,6 @@ const RetroChao = () => {
             </motion.div>
           )}
         </motion.div>
-
-        {/* Visitor counter lol */}
-        <p className="mt-6 text-xs text-purple-300/60">
-          ⭐ You are visitor #{Math.floor(Math.random() * 9999) + 1} ⭐
-        </p>
       </div>
     </div>
   );
