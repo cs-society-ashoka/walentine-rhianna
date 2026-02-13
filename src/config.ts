@@ -5,25 +5,25 @@
 
 export const config = {
   /** Your name */
-  senderName: "Granthana",
+  senderName: "Rhianna",
 
   /** Your Valentine's name */
-  recipientName: "Ivirah",
+  recipientName: "Rayann",
 
   /** Your personal message (used in Mixtape lyrics, Sealed Letter, etc.) */
   message:
-    "-",
+    "Rayann, Happy Valentines Day! You deserve to be celebrated every day :) Thank you for bringing hope, joy, and love into my life. I'm lucky to have you ❤️",
 
   /** Photo URLs for photo-heavy templates (Memory Cloud, Mixtape, 90s Desktop) */
   photos: [
-    "photos/photo1.jpeg",
-    "photos/photo2.jpeg",
-    "photos/photo3.jpeg",
-    "photos/photo4.png",
-    "photos/photo5.jpeg",
-    "photos/photo6.png",
-    "photos/photo7.jpeg",
-    "photos/photo8.jpeg",
+    "photos/20250928_232711 - Rhianna Majumder.jpg",
+    "photos/20251011_181558 - Rhianna Majumder.jpg",
+    "photos/20260110_193343 - Rhianna Majumder.jpg",
+    "photos/20260112_164450 - Rhianna Majumder.jpg",
+    "photos/20260112_190517 - Rhianna Majumder.jpg",
+    "photos/IMG-20250319-WA0030 - Rhianna Majumder.jpg",
+    "photos/IMG-20250504-WA0027 - Rhianna Majumder.jpg",
+    "photos/IMG-20250604-WA0013 - Rhianna Majumder.jpg",
 ],
 logo: "photos/logo.png",
 audioUrl: "audio/final_audio.mp3",
